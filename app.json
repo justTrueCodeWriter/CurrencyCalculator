@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a279e3c-04a2-4599-b398-685f8c7c9618"
+      }
+    },
+    "owner": "exponentialrat"
   }
 }
